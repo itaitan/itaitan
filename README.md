@@ -7,7 +7,9 @@ Here are some ideas to get you started:
 ### Ferramentas e Tecnologias 
 
 <div>
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
   <i class="devicon-java-plain-wordmark colored"></i>
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
   <i class="devicon-angularjs-plain colored"></i>
 </div>
 
