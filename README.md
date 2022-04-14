@@ -7,8 +7,8 @@ Here are some ideas to get you started:
 ### Ferramentas e Tecnologias 
 
 <div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+  <i class="devicon-java-plain-wordmark colored"></i>
+  <i class="devicon-angularjs-plain colored"></i>
 </div>
 
 <div>
