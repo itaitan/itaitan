@@ -26,9 +26,23 @@
 <br>
 <br>
 <div>
-<a href="https://github.com/seu-usuário-aqui">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itaitan&layout=compact&langs_count=7&theme=dracula"/>
-<!-- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=itaitan&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/> -->
+## #Github Info:octocat:
+<p align="start">
+  <a href="https://github.com/itaitan/">
+    <img
+      align="center"
+      height="165"
+      src="https://github-readme-stats.vercel.app/api?username=itaitan&count_private=true&show_icons=true&custom_title=Github%20Status&hide=issues&theme=dark"
+    />
+  </a>
+  <a href="https://github.com/itaitan/">
+    <img
+      align="center"
+      height="165"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=itaitan&&layout=compact&theme=dark"
+    />
+  </a>
+</p>
 </div>
   
   
