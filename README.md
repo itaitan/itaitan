@@ -1,7 +1,7 @@
 
 <h1>Olá sou itaitã</h1>
 
-- 🔭 Atualmente estou trabalhando com Java Spring e Angular.
+- 🔭 Atualmente estou trabalhando com Angular e Node JS.
 
 
 ### Ferramentas e Tecnologias 
