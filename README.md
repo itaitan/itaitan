@@ -8,6 +8,7 @@
 
 <div>
   <img src="https://img.icons8.com/?size=256&id=9ESZMOeUioJS&format=png" width="40" height="40" />
+  <img src="https://img.icons8.com/?size=256&id=AU6Wc7r56Fxz&format=png" width="40" height="40" />
   <img src="https://cdn-icons-png.flaticon.com/512/1183/1183621.png" width="40" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="40" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="40" height="40" />
